@@ -1,0 +1,2 @@
+#Service discovery
+eureka.client.service-url.defaultZone=https://spring-ms-service-discovery.azuremicroservices.io/eureka/
